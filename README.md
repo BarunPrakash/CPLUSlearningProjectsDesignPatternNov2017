@@ -1,0 +1,1 @@
+# CPLUSlearningProjectsDesignPatternNov2017
